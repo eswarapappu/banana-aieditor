@@ -1,0 +1,5 @@
+{
+  "name": "Banana AI Image Editor",
+  "description": "An intuitive web application that uses Google's Gemini 'Banana' model (gemini-2.5-flash-image-preview) to edit images based on user text prompts. Upload an image, describe your desired change, and see the AI-generated result.",
+  "requestFramePermissions": []
+}
